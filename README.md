@@ -22,8 +22,9 @@ https://github.com/Bcz25/notes-app/assets/160162513/5d6f227f-f37c-4821-8908-7589
 Enjoy
 
 <a name="test"></a>
-## Tests
-N/A
+## Packages
+Node
+Express
 
 <a name="questions"></a>
 ## Questions
