@@ -11,10 +11,11 @@ This app is an easy to use note app desinged to help you keep track of your note
 
 <a name="install"></a>
 ## Installation
-Enter https://notes-app-syb8.onrender.com in web browser
+Navigate to https://notes-app-syb8.onrender.com
 
 <a name="use"></a>
 ## Usage
+https://github.com/Bcz25/notes-app/assets/160162513/5d6f227f-f37c-4821-8908-7589a6606267
 
 <a name="contributing"></a>
 ## Contributing
