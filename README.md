@@ -24,7 +24,7 @@ Enjoy
 <a name="test"></a>
 ## Packages
 * Node
-* *Express
+* Express
 
 <a name="questions"></a>
 ## Questions
